@@ -1,0 +1,26 @@
+body {
+  font-family: Tahoma;
+  text-align: center;
+  padding: 20px;
+  direction: rtl;
+}
+
+button, input, select {
+  padding: 10px;
+  margin: 5px;
+  font-family: Tahoma;
+}
+
+button {
+  background: #4CAF50;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+
+#result {
+  margin-top: 20px;
+  padding: 10px;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+}
