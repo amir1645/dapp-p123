@@ -1,0 +1,10 @@
+{
+  "name": "ptoken-dapp",
+  "version": "1.0.0",
+  "description": "PToken DApp for Vercel",
+  "scripts": {
+    "start": "vercel dev"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
